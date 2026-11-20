@@ -18,20 +18,25 @@ My interests include **Python Development, Backend Development, Full Stack Web D
 ## Technical Skills
 
 **Programming Languages**
+
 - Python, JavaScript, SQL
 
 **Frontend Development**
+
 - HTML5, CSS3
 
 **Backend Development**
+
 - Django
 - Python-based Web Application Development
 
 **Databases**
+
 - MySQL, SQLite
 - SQL Queries and Database Operations
 
 **Tools & Technologies**
+
 - Git, GitHub, VS Code
 - Python Virtual Environments
 
@@ -45,14 +50,18 @@ My interests include **Python Development, Backend Development, Full Stack Web D
 
 A Django-based hospital appointment booking application designed to simplify patient registration, appointment scheduling, and receptionist management.
 
-**Tech Stack:** Python, Django, HTML, CSS, SQLite
+**Tech Stack:** Python, Django, MySQL, HTML5, CSS3, JavaScript
 
 **Key Features**
+
 - Patient registration and login.
 - Online appointment booking.
 - Doctor and available time-slot selection.
+- Date and time availability checking.
 - Patient dashboard and appointment history.
-- Receptionist dashboard and appointment management.
+- Receptionist login and dashboard.
+- Appointment search and management.
+- Appointment cancellation.
 
 ---
 
